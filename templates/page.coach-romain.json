@@ -1,0 +1,230 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "5c7a67fe-ae06-4462-8990-b804a712e490": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18586481590601__5c7a67fe-ae06-4462-8990-b804a712e490-1681971107dd2840e8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Romain",
+            "heading_size": "h1"
+          }
+        },
+        "template--18586481590601__5c7a67fe-ae06-4462-8990-b804a712e490-1681971107dd2840e8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ma devise: Ton objectif, c’est mon objectif !😁<br\/><br\/>Romain, 37 ans, actif dans le sport depuis looooooongtemps 😂<br\/>Je suis enseignant dans les sports de combats depuis plus de 10 ans, également compétiteurs durant toutes ces années.<br\/><br\/>Aujourd’hui reconverti dans le coaching individuel et personnalisé, je ne cesse de me former pour apprendre toujours plus: musculation, nutrition, préparation physique.<br\/><br\/>Comme je te l’ai dit, ton objectif est également le mien 🙂<br\/><br\/>Je mettrai tout en œuvre  pour te faire atteindre tes objectifs: perte de poids, prise de muscle, préparation à un concours, performance sportive, préparation à une échéance sportive ou à un sport<br\/><br\/><strong>Mes qualités:<\/strong>Je suis toujours disponible pour mes élèves, très à l’écoute, rassurant, sécurisant, professionnel et je suis une personne de confiance 😄<br\/><br\/>Je t’aiderai à révéler ton potentiel et à te surpasser, dans la bonne humeur 🤩<br\/><br\/>N’attends plus, rejoins moi pour une expérience magique 😁<br\/><br\/><strong>Mes diplômes:<\/strong>- BPJEPS musculation option haltérophilie<br\/>- Certification en diététique sportive<br\/>- Diplôme de préparateur physique<br\/>- Ceinture noire de Jiu-jitsu brésilien, Judo<br\/>- Grade noir de grappling- Brevet fédéraux 1 et 2 lutte option grappling<br\/>- CQP moniteur d’arts martiaux<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18586481590601__5c7a67fe-ae06-4462-8990-b804a712e490-1681971107dd2840e8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Consultez les forfaits",
+            "button_link": "shopify:\/\/pages\/nos-forfaits"
+          }
+        }
+      },
+      "block_order": [
+        "template--18586481590601__5c7a67fe-ae06-4462-8990-b804a712e490-1681971107dd2840e8-0",
+        "template--18586481590601__5c7a67fe-ae06-4462-8990-b804a712e490-1681971107dd2840e8-1",
+        "template--18586481590601__5c7a67fe-ae06-4462-8990-b804a712e490-1681971107dd2840e8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/romain-1635943893763.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5793d9c8-4309-44e6-ab67-6b1bbcbfb870": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18586481590601__5793d9c8-4309-44e6-ab67-6b1bbcbfb870-1681971467beb0df57-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Témoignages",
+            "heading_size": "h1"
+          }
+        },
+        "517747ce-e058-4757-9f5e-87ae96d689a9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Découvrez les retours d'expériences des élèves de Romain.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18586481590601__5793d9c8-4309-44e6-ab67-6b1bbcbfb870-1681971467beb0df57-0",
+        "517747ce-e058-4757-9f5e-87ae96d689a9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "91ce9478-1caf-4514-b6a4-3a724f876c65": {
+      "type": "collage",
+      "blocks": {
+        "5034ea47-c48c-4e07-bb37-17212bcbe376": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/youtu.be\/uW6uEXC5vOI",
+            "description": "Describe the video"
+          }
+        },
+        "7a6612d7-6e3b-4e98-96da-2f16c0c7138d": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/youtu.be\/5pVGddDqwPE",
+            "description": "Describe the video"
+          }
+        },
+        "f5545f74-e356-459c-8456-e7179c6ff7ec": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/youtu.be\/SyAimql9Stg",
+            "description": "Describe the video"
+          }
+        }
+      },
+      "block_order": [
+        "5034ea47-c48c-4e07-bb37-17212bcbe376",
+        "7a6612d7-6e3b-4e98-96da-2f16c0c7138d",
+        "f5545f74-e356-459c-8456-e7179c6ff7ec"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "none",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "bf13a38d-1c83-4851-ad43-37b7f46e217a": {
+      "type": "collage",
+      "blocks": {
+        "a4c913ba-c2b2-4daf-983a-0cca08c1b17e": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/youtu.be\/BToeTC3sL7c",
+            "description": "Describe the video"
+          }
+        },
+        "c4048a5c-b017-4d5b-8431-e02e4135d6bb": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/youtu.be\/WufsedSlOEU",
+            "description": "Describe the video"
+          }
+        },
+        "8d0e8393-baa8-4f83-add6-5c62ab1cd14f": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/youtu.be\/_XzB4eW-BbU",
+            "description": "Describe the video"
+          }
+        }
+      },
+      "block_order": [
+        "a4c913ba-c2b2-4daf-983a-0cca08c1b17e",
+        "c4048a5c-b017-4d5b-8431-e02e4135d6bb",
+        "8d0e8393-baa8-4f83-add6-5c62ab1cd14f"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "mobile_layout": "column",
+        "card_styles": "none",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "156d8bcd-e98a-4d28-9a52-56181813a084": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18586481590601__156d8bcd-e98a-4d28-9a52-56181813a084-1681971619b7b73a45-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/david-1637594404075.webp",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--18586481590601__156d8bcd-e98a-4d28-9a52-56181813a084-1681971619b7b73a45-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18586481590601__156d8bcd-e98a-4d28-9a52-56181813a084-1681971619b7b73a45-0",
+        "template--18586481590601__156d8bcd-e98a-4d28-9a52-56181813a084-1681971619b7b73a45-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5c7a67fe-ae06-4462-8990-b804a712e490",
+    "5793d9c8-4309-44e6-ab67-6b1bbcbfb870",
+    "91ce9478-1caf-4514-b6a4-3a724f876c65",
+    "bf13a38d-1c83-4851-ad43-37b7f46e217a",
+    "156d8bcd-e98a-4d28-9a52-56181813a084"
+  ]
+}

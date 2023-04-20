@@ -1,1 +1,96 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"footer":{"type":"footer","settings":{"color_scheme":"background-1","newsletter_enable":true,"newsletter_heading":"Subscribe to our emails","enable_follow_on_shop":true,"show_social":true,"enable_country_selector":true,"enable_language_selector":true,"payment_enable":true,"show_policy":false,"margin_top":36,"padding_top":36,"padding_bottom":36}}},"order":["footer"]}
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "704e9f80-f4ec-40e7-9ee0-417f71a0b1ba": {
+      "type": "newsletter",
+      "blocks": {
+        "sections--18487988683081__704e9f80-f4ec-40e7-9ee0-417f71a0b1ba-16802894225e9d0024-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "sections--18487988683081__704e9f80-f4ec-40e7-9ee0-417f71a0b1ba-16802894225e9d0024-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Envie de rester informé par votre coach, de bénéficier de conseils et de promotions sur la gamme de produits sélectionnés, et toute l'actualité de SCP ? Inscrivez-vous à la newsletter SCP. Vous ne serez pas déçus.<\/p>"
+          }
+        },
+        "sections--18487988683081__704e9f80-f4ec-40e7-9ee0-417f71a0b1ba-16802894225e9d0024-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "sections--18487988683081__704e9f80-f4ec-40e7-9ee0-417f71a0b1ba-16802894225e9d0024-0",
+        "sections--18487988683081__704e9f80-f4ec-40e7-9ee0-417f71a0b1ba-16802894225e9d0024-1",
+        "sections--18487988683081__704e9f80-f4ec-40e7-9ee0-417f71a0b1ba-16802894225e9d0024-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "10bd44a3-32d7-46ba-a5e8-5641f99e812b": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        },
+        "da495706-40fc-456c-b40e-93873b677ff0": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Menu Principal",
+            "menu": "main-menu-v2"
+          }
+        },
+        "4b6abee7-d50b-4c3c-bfe8-3927c3902930": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Les coachings",
+            "menu": "footer"
+          }
+        },
+        "9b95f73a-ba9e-43ec-8495-3f3ff99fe658": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Informations",
+            "menu": "contact"
+          }
+        }
+      },
+      "block_order": [
+        "10bd44a3-32d7-46ba-a5e8-5641f99e812b",
+        "da495706-40fc-456c-b40e-93873b677ff0",
+        "4b6abee7-d50b-4c3c-bfe8-3927c3902930",
+        "9b95f73a-ba9e-43ec-8495-3f3ff99fe658"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "704e9f80-f4ec-40e7-9ee0-417f71a0b1ba",
+    "footer"
+  ]
+}

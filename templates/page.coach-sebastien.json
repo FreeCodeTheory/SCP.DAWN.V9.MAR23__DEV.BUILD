@@ -1,0 +1,126 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "c5c278f4-54ea-4fab-930e-30e82e703185": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18583487545673__c5c278f4-54ea-4fab-930e-30e82e703185-16819139481b26c1b4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"L'histoire de mon activité de coach a débuté grâce à mon expérience personnelle.<br\/><br\/>Introverti à cause d'un physique chétif, manquant réellement de confiance en moi, l'envie d'un nouveau corps, mieuxbâti, a rapidement pris une place essentielle dans mon esprit.<br\/><br\/>C'est donc tout naturellement que je me suis documenté en m'orientant vers des livres spécialisés en nutrition, en visitant énormément de sites de musculation, afin d'assouvir ma soif grandissante de connaissances.<br\/>J'étais très actif sur les forums afin d'échanger sur des méthodes d'entrainement et nutritives, avec d'autres personnes qui sont aujourd'hui importantes et influentes dans le monde du fitness et de la nutrition.<br\/><br\/>D'ailleurs je considère que l'apprentissage et le perfectionnement de mes compétences est une aventure sans limites à laquelle je me consacre avec beaucoup de passion et de patience.<br\/><br\/>Je continue de faire des recherches complémentaires en m'appuyant sur des livres spécialisés en musculation, nutrition et je suis régulièrement des formations dans ces deux domaines.\"<\/p><p><\/p><h3><em>Sebastien - 36 ans - Les Landes<\/em><\/h3>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18583487545673__c5c278f4-54ea-4fab-930e-30e82e703185-16819139481b26c1b4-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pf-5ebcb8a6--votrecoach.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8d8df6a8-2940-4d29-8775-734bdc881c78": {
+      "type": "collage",
+      "blocks": {
+        "2fa1fdd4-abc0-472a-a8b8-9d3123093a50": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/fitness-weight-lifting.jpg",
+            "video_url": "https:\/\/youtu.be\/Q-zwt4rzY-4",
+            "description": "Describe the video"
+          }
+        },
+        "29fe0231-b71f-4ef1-a441-d88866040ac1": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/exercise-balance.jpg",
+            "video_url": "https:\/\/youtu.be\/0CQHLI3tZAs",
+            "description": "Describe the video"
+          }
+        }
+      },
+      "block_order": [
+        "2fa1fdd4-abc0-472a-a8b8-9d3123093a50",
+        "29fe0231-b71f-4ef1-a441-d88866040ac1"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "none",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2a56310b-6ca0-4f52-82b3-715c3715a1dc": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18583487545673__2a56310b-6ca0-4f52-82b3-715c3715a1dc-1681971107dd2840e8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Evolution en 6 ans",
+            "heading_size": "h1"
+          }
+        },
+        "template--18583487545673__2a56310b-6ca0-4f52-82b3-715c3715a1dc-1681971107dd2840e8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Au fil des années et grâce à de précieux conseils d'autres passionnés, mon corps a rapidement changé. J'avais trouvé l'alchimie parfaite pour se construire un physique : le secret résidait tout simplement dans un entrainement adapté à ma morphologie, des exercices spécifiques et une nutrition adéquate.<br\/><br\/>Plus mon physique changeait, plus ma prestance et ma confiance en moi grandissaient. Je me sentais mieux dans ma peau, et ma vie commençait à changer sur de nombreux plans.<br\/><br\/>De nature bienveillante, c'est donc tout naturellement que j'ai décidé de proposer mes services pour aider d'autres personnes à reprendre confiance en eux, de leur apporter mon expérience personnelle afin qu'ils changent rapidement et durablement en leur évitant les erreurs que j'avais pu commettre à mes débuts.<br\/><br\/>Pour choisir le coaching adapté à vos objectifs, consultez mes forfaits coaching.\"<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18583487545673__2a56310b-6ca0-4f52-82b3-715c3715a1dc-1681971107dd2840e8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Consultez mes forfaits",
+            "button_link": "shopify:\/\/pages\/nos-forfaits"
+          }
+        }
+      },
+      "block_order": [
+        "template--18583487545673__2a56310b-6ca0-4f52-82b3-715c3715a1dc-1681971107dd2840e8-0",
+        "template--18583487545673__2a56310b-6ca0-4f52-82b3-715c3715a1dc-1681971107dd2840e8-1",
+        "template--18583487545673__2a56310b-6ca0-4f52-82b3-715c3715a1dc-1681971107dd2840e8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pf-3b95940b--votrecoachavantapres.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c5c278f4-54ea-4fab-930e-30e82e703185",
+    "8d8df6a8-2940-4d29-8775-734bdc881c78",
+    "2a56310b-6ca0-4f52-82b3-715c3715a1dc"
+  ]
+}
