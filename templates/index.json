@@ -612,6 +612,85 @@
         "padding_bottom": 36
       }
     },
+    "1681976019cb03632d": {
+      "type": "apps",
+      "blocks": {
+        "f69e3430-716e-41dc-90f5-6dafd92501fd": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "f69e3430-716e-41dc-90f5-6dafd92501fd"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "06db56f0-02ed-49df-bcb3-89f72eceb741": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lorem Ipsum",
+            "icon": "question_mark",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lorem Ipsum",
+            "icon": "question_mark",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lorem Ipsum",
+            "icon": "question_mark",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lorem Ipsum",
+            "icon": "question_mark",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-0",
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-1",
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-2",
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-3"
+      ],
+      "settings": {
+        "caption": "Une question ? Consultez notre FAQ",
+        "heading": "F.A.Q",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "inverse",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": true,
+        "image": "shopify:\/\/shop_images\/5ef274991eb39d16a6c27d90_graph-Homepage_de2111fc-efdb-49ea-906d-7bbf6144cdc0.png",
+        "image_ratio": "small",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "8df303f4-0092-4a0d-9d15-c417824fd272": {
       "type": "multicolumn",
       "blocks": {
@@ -678,68 +757,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "06db56f0-02ed-49df-bcb3-89f72eceb741": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Lorem Ipsum",
-            "icon": "question_mark",
-            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
-            "page": ""
-          }
-        },
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Lorem Ipsum",
-            "icon": "question_mark",
-            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
-            "page": ""
-          }
-        },
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Lorem Ipsum",
-            "icon": "question_mark",
-            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
-            "page": ""
-          }
-        },
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Lorem Ipsum",
-            "icon": "question_mark",
-            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-0",
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-1",
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-2",
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-3"
-      ],
-      "settings": {
-        "caption": "Une question ? Consultez notre FAQ",
-        "heading": "F.A.Q",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": true,
-        "image": "shopify:\/\/shop_images\/5ef274991eb39d16a6c27d90_graph-Homepage_de2111fc-efdb-49ea-906d-7bbf6144cdc0.png",
-        "image_ratio": "small",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -759,7 +776,8 @@
     "bda90e53-99dc-4704-95d8-8a0f2f0a85d5",
     "95606702-078a-4f90-ae46-2ba49db6bb99",
     "05de3098-19dd-468f-97e7-a7d95d2176bc",
-    "8df303f4-0092-4a0d-9d15-c417824fd272",
-    "06db56f0-02ed-49df-bcb3-89f72eceb741"
+    "1681976019cb03632d",
+    "06db56f0-02ed-49df-bcb3-89f72eceb741",
+    "8df303f4-0092-4a0d-9d15-c417824fd272"
   ]
 }

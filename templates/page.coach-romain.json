@@ -171,16 +171,16 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/david-1637594404075.webp",
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "heading": "David",
+            "heading_size": "h2",
+            "subheading": "Le principe même du coaching est d’apporter son savoir faire pour faire évoluer les autres. Romain en est le parfait exemple. Arrivé au SCP afin de reprendre le sport après des années sans activités, je cherchais un lieu plus atypique et intimiste qu’une simple salle de sport . Sa disponibilité et son écoute en plus de ses compétences en font ses atouts.Un suivi personnalisé est forcément impératif si l’on veut obtenir de vrai résultats et romain s’adapte parfaitement à ta demande suivant tes objectifs et même au-delà. Pour résumer si tu veux progresser Romain va t’aider et tes objectifs seront réalisés !",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-left",
             "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "text_alignment": "left",
+            "image_overlay_opacity": 20,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
@@ -209,7 +209,7 @@
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "medium",
+        "slide_height": "large",
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
