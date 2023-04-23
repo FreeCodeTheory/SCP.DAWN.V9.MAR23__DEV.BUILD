@@ -21,8 +21,8 @@
         "template--18487988224329__6a48ab6f-c511-4aa2-90b1-069b916508b4-1680288275ae4eeef2-0": {
           "type": "heading",
           "settings": {
-            "heading": "Accroche BRANDING : Qui sommes-nous ? \/ Découvrez votre coach \/ ...",
-            "heading_size": "h2"
+            "heading": "Les témoignages de nos élèves",
+            "heading_size": "h1"
           }
         }
       },
@@ -36,231 +36,6 @@
         "full_width": true,
         "padding_top": 16,
         "padding_bottom": 16
-      }
-    },
-    "8be34bce-1908-4d36-af55-2a1da69c4036": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18487988224329__8be34bce-1908-4d36-af55-2a1da69c4036-16802644807d52305f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sébastien",
-            "heading_size": "h1"
-          }
-        },
-        "template--18487988224329__8be34bce-1908-4d36-af55-2a1da69c4036-16802644807d52305f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>L'histoire de mon activité de coach a débuté grâce à mon expérience personnelle.<br\/>Introverti à cause d'un physique chétif, manquant réellement de confiance en moi, l'envie d'un nouveau corps, mieuxbâti, a rapidement pris une place essentielle dans mon esprit ...<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18487988224329__8be34bce-1908-4d36-af55-2a1da69c4036-16802644807d52305f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Découvrez Sébastien",
-            "button_link": "shopify:\/\/pages\/coach-sebastien"
-          }
-        }
-      },
-      "block_order": [
-        "template--18487988224329__8be34bce-1908-4d36-af55-2a1da69c4036-16802644807d52305f-0",
-        "template--18487988224329__8be34bce-1908-4d36-af55-2a1da69c4036-16802644807d52305f-1",
-        "template--18487988224329__8be34bce-1908-4d36-af55-2a1da69c4036-16802644807d52305f-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/arm-workout.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 28,
-        "padding_bottom": 0
-      }
-    },
-    "5e66f2a0-8ac0-4d3f-9b72-1aa3a64a0533": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18487988224329__5e66f2a0-8ac0-4d3f-9b72-1aa3a64a0533-16802644807d52305f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Romain",
-            "heading_size": "h1"
-          }
-        },
-        "template--18487988224329__5e66f2a0-8ac0-4d3f-9b72-1aa3a64a0533-16802644807d52305f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Ma devise : <br\/><strong>Ton<\/strong> objectif, c’est <strong>mon<\/strong> objectif!<br\/>Romain, 37 ans, actif dans le sport depuis longtemps. Je suis enseignant dans les sports de combats depuis plus de 10 ans, également compétiteurs durant toutes ces années ...<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18487988224329__5e66f2a0-8ac0-4d3f-9b72-1aa3a64a0533-16802644807d52305f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Découvrez Romain",
-            "button_link": "shopify:\/\/pages\/coach-romain"
-          }
-        }
-      },
-      "block_order": [
-        "template--18487988224329__5e66f2a0-8ac0-4d3f-9b72-1aa3a64a0533-16802644807d52305f-0",
-        "template--18487988224329__5e66f2a0-8ac0-4d3f-9b72-1aa3a64a0533-16802644807d52305f-1",
-        "template--18487988224329__5e66f2a0-8ac0-4d3f-9b72-1aa3a64a0533-16802644807d52305f-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/exercise-balance.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "7eea6191-1491-4a69-9833-787126d2e254": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18487988224329__7eea6191-1491-4a69-9833-787126d2e254-16802644807d52305f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Sophie",
-            "heading_size": "h1"
-          }
-        },
-        "template--18487988224329__7eea6191-1491-4a69-9833-787126d2e254-16802644807d52305f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Hello ! <br\/>Moi c'est Sophie, 34 ans. Reconvertie professionnellement, je suis  issue des soins à la personne via le beau métier d'infirmière. J'ai également été pompier volontaire durant 15 belles années.<br\/>Je suis passionnée de musculation, de diététique sportive.... dans un but de dépassement de soi , de bien-être physique et mental ...<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18487988224329__7eea6191-1491-4a69-9833-787126d2e254-16802644807d52305f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Découvrez Sophie",
-            "button_link": "shopify:\/\/pages\/coach-sophie"
-          }
-        }
-      },
-      "block_order": [
-        "template--18487988224329__7eea6191-1491-4a69-9833-787126d2e254-16802644807d52305f-0",
-        "template--18487988224329__7eea6191-1491-4a69-9833-787126d2e254-16802644807d52305f-1",
-        "template--18487988224329__7eea6191-1491-4a69-9833-787126d2e254-16802644807d52305f-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/sven-mieke-jO6vBWX9h9Y-unsplash.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "8db88ae6-318d-4e8c-9c1b-48d4184ae5cc": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18487988224329__8db88ae6-318d-4e8c-9c1b-48d4184ae5cc-1681908845fb9814be-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Mickaël",
-            "heading_size": "h1"
-          }
-        },
-        "template--18487988224329__8db88ae6-318d-4e8c-9c1b-48d4184ae5cc-1681908845fb9814be-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Je me présente, je m’appelle Mickaël Badets.<br\/>Je suis Coach Sportif diplômé d’État.<br\/>Depuis tout petit je suis passionné par le sport et surtout par la musculation. Après avoir passé 9 ans de ma vie à aider les personnes en tant qu’aide soignant et Pompier volontaire ...<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18487988224329__8db88ae6-318d-4e8c-9c1b-48d4184ae5cc-1681908845fb9814be-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Découvrez Mickaël",
-            "button_link": "shopify:\/\/pages\/coach-mickael"
-          }
-        }
-      },
-      "block_order": [
-        "template--18487988224329__8db88ae6-318d-4e8c-9c1b-48d4184ae5cc-1681908845fb9814be-0",
-        "template--18487988224329__8db88ae6-318d-4e8c-9c1b-48d4184ae5cc-1681908845fb9814be-1",
-        "template--18487988224329__8db88ae6-318d-4e8c-9c1b-48d4184ae5cc-1681908845fb9814be-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/exercise-balance.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "e99e0165-1b8f-48c8-8ecb-d5ba7b938779": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18487988224329__e99e0165-1b8f-48c8-8ecb-d5ba7b938779-1681908845fb9814be-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Carole",
-            "heading_size": "h1"
-          }
-        },
-        "template--18487988224329__e99e0165-1b8f-48c8-8ecb-d5ba7b938779-1681908845fb9814be-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Coach sportif diplômé d'état depuis 4ans, j'accompagne chacun de mes  élèves à atteindre leurs objectifs.<br\/><br\/>Le sport fait depuis toujours partie de ma vie ...<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18487988224329__e99e0165-1b8f-48c8-8ecb-d5ba7b938779-1681908845fb9814be-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Découvrez Carole",
-            "button_link": "shopify:\/\/pages\/coach-carole"
-          }
-        }
-      },
-      "block_order": [
-        "template--18487988224329__e99e0165-1b8f-48c8-8ecb-d5ba7b938779-1681908845fb9814be-0",
-        "template--18487988224329__e99e0165-1b8f-48c8-8ecb-d5ba7b938779-1681908845fb9814be-1",
-        "template--18487988224329__e99e0165-1b8f-48c8-8ecb-d5ba7b938779-1681908845fb9814be-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/sven-mieke-jO6vBWX9h9Y-unsplash.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 36
       }
     },
     "0a3249a2-3519-40e2-a03c-5c6a22d83955": {
@@ -297,7 +72,7 @@
         "ebe99e89-7451-470e-a69c-56febefc935c"
       ],
       "settings": {
-        "heading": "Les témoignages de nos élèves \/ adhérents \/ ... ?",
+        "heading": "",
         "heading_size": "h1",
         "desktop_layout": "right",
         "mobile_layout": "collage",
@@ -305,6 +80,50 @@
         "color_scheme": "background-1",
         "padding_top": 32,
         "padding_bottom": 0
+      }
+    },
+    "55e95c35-5154-4908-99d0-1201acc063f0": {
+      "type": "collage",
+      "blocks": {
+        "bbbbbe2b-82cb-492a-a431-84eeffcc0b9a": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/david-1637594404075.webp",
+            "video_url": "https:\/\/youtu.be\/AJewBRr_5Jc",
+            "description": "Describe the video"
+          }
+        },
+        "1bd89646-9bc9-46b4-bc11-b6808327a8fa": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/sven-mieke-jO6vBWX9h9Y-unsplash.jpg",
+            "video_url": "https:\/\/youtu.be\/AJewBRr_5Jc",
+            "description": "Describe the video"
+          }
+        },
+        "064712c2-b4c0-4a7e-b477-be836ae98bfa": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/ambitious-studio-rick-barrett-g_bglWB48JA-unsplash_1.jpg",
+            "video_url": "https:\/\/youtu.be\/AJewBRr_5Jc",
+            "description": "Describe the video"
+          }
+        }
+      },
+      "block_order": [
+        "bbbbbe2b-82cb-492a-a431-84eeffcc0b9a",
+        "1bd89646-9bc9-46b4-bc11-b6808327a8fa",
+        "064712c2-b4c0-4a7e-b477-be836ae98bfa"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "a9a8555e-7a58-41e7-b86b-1279f894abd3": {
@@ -320,7 +139,7 @@
           "type": "button",
           "settings": {
             "button_label": "Voir tous les témoignages",
-            "button_link": "shopify:\/\/collections",
+            "button_link": "shopify:\/\/pages\/temoignages-1",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -337,7 +156,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 16,
         "padding_bottom": 52
       }
     },
@@ -350,25 +169,40 @@
             "heading": "AVANT \/ APRÈS",
             "heading_size": "h1"
           }
-        },
-        "template--18487988224329__175b2a72-7533-466e-9369-ee0cdefa7c2a-1680362375b5ccc596-1": {
+        }
+      },
+      "block_order": [
+        "template--18487988224329__175b2a72-7533-466e-9369-ee0cdefa7c2a-1680362375b5ccc596-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "cbbfd052-3160-4118-9526-2be259886703": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18487988224329__cbbfd052-3160-4118-9526-2be259886703-1682249984e700b6df-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Ce que l'on mesure s'améliore. Visualiser son objectif est essentiel.<br\/>Découvrez les évolutions de nos adhérents <\/p>"
+            "text": "<p>Tout ce qui se mesure s'améliore. Visualiser votre objectif est le moyen le plus efficace de l'atteindre. Lorem Ipsum ....<\/p>"
           }
         }
       },
       "block_order": [
-        "template--18487988224329__175b2a72-7533-466e-9369-ee0cdefa7c2a-1680362375b5ccc596-0",
-        "template--18487988224329__175b2a72-7533-466e-9369-ee0cdefa7c2a-1680362375b5ccc596-1"
+        "template--18487988224329__cbbfd052-3160-4118-9526-2be259886703-1682249984e700b6df-1"
       ],
       "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "28d3c503-f7a7-4a57-a37d-d6bf4e3038b3": {
@@ -402,7 +236,7 @@
         "template--18487988224329__28d3c503-f7a7-4a57-a37d-d6bf4e3038b3-1680362703555f5a78-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1.png",
+        "image": "shopify:\/\/shop_images\/pf-0f8c92f7--5eafe4f94e3051c958074f18FACE52-Edited-Edited.webp",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -413,51 +247,6 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 32,
-        "padding_bottom": 0
-      }
-    },
-    "856f7898-041e-427a-993d-0b1ba7f5e7a5": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18487988224329__856f7898-041e-427a-993d-0b1ba7f5e7a5-1680362703555f5a78-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Chloé",
-            "heading_size": "h1"
-          }
-        },
-        "template--18487988224329__856f7898-041e-427a-993d-0b1ba7f5e7a5-1680362703555f5a78-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><em>Lorsque j'ai connu Chloé, je ne m'attendais pas du tout à réveiller en elle une véritable machine<\/em><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18487988224329__856f7898-041e-427a-993d-0b1ba7f5e7a5-1680362703555f5a78-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Découvrez son parcours",
-            "button_link": "shopify:\/\/blogs\/avant-apres\/chloe"
-          }
-        }
-      },
-      "block_order": [
-        "template--18487988224329__856f7898-041e-427a-993d-0b1ba7f5e7a5-1680362703555f5a78-0",
-        "template--18487988224329__856f7898-041e-427a-993d-0b1ba7f5e7a5-1680362703555f5a78-1",
-        "template--18487988224329__856f7898-041e-427a-993d-0b1ba7f5e7a5-1680362703555f5a78-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/sven-mieke-jO6vBWX9h9Y-unsplash.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -492,8 +281,53 @@
         "template--18487988224329__e134d0b9-ecf1-40fa-9efa-2259c49c1233-1681908845fb9814be-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/exercise-balance.jpg",
+        "image": "shopify:\/\/shop_images\/pf-12371508--5eaff6e4abe8f51b318c9b9aSans-titre2-Edited.webp",
         "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "856f7898-041e-427a-993d-0b1ba7f5e7a5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18487988224329__856f7898-041e-427a-993d-0b1ba7f5e7a5-1680362703555f5a78-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Chloé",
+            "heading_size": "h1"
+          }
+        },
+        "template--18487988224329__856f7898-041e-427a-993d-0b1ba7f5e7a5-1680362703555f5a78-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Lorsque j'ai connu Chloé, je ne m'attendais pas du tout à réveiller en elle une véritable machine<\/em><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18487988224329__856f7898-041e-427a-993d-0b1ba7f5e7a5-1680362703555f5a78-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Découvrez son parcours",
+            "button_link": "shopify:\/\/blogs\/avant-apres\/chloe"
+          }
+        }
+      },
+      "block_order": [
+        "template--18487988224329__856f7898-041e-427a-993d-0b1ba7f5e7a5-1680362703555f5a78-0",
+        "template--18487988224329__856f7898-041e-427a-993d-0b1ba7f5e7a5-1680362703555f5a78-1",
+        "template--18487988224329__856f7898-041e-427a-993d-0b1ba7f5e7a5-1680362703555f5a78-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pf-3f0f8c92--5eafe594153c2870d16c0ff1SITE-FACE2-Edited-Edited.webp",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -537,7 +371,7 @@
         "template--18487988224329__bda90e53-99dc-4704-95d8-8a0f2f0a85d5-1681908845fb9814be-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/arm-workout.jpg",
+        "image": "shopify:\/\/shop_images\/pf-15089a83--5eb0021da0d3e44b55706821Face-Edited.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -585,13 +419,130 @@
         "padding_bottom": 32
       }
     },
+    "b2284cc0-4c0b-473d-96a3-d81b450a18f5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18487988224329__b2284cc0-4c0b-473d-96a3-d81b450a18f5-1682249984e700b6df-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Les coachs SCP GYM",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18487988224329__b2284cc0-4c0b-473d-96a3-d81b450a18f5-1682249984e700b6df-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "e1e62502-fa46-4741-b4b4-d1d4d699405a": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18487988224329__e1e62502-fa46-4741-b4b4-d1d4d699405a-16822509659325b9f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Un accompagnement 100% personnalisé",
+            "heading_size": "h1"
+          }
+        },
+        "template--18487988224329__e1e62502-fa46-4741-b4b4-d1d4d699405a-16822509659325b9f6-1": {
+          "type": "text",
+          "settings": {
+            "text": "Nos coachs vous accompagnent le temps nécessaire à la réalisation de vos objectifs. Découvrez notre équipe de professionnels.",
+            "text_style": "body"
+          }
+        },
+        "template--18487988224329__e1e62502-fa46-4741-b4b4-d1d4d699405a-16822509659325b9f6-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Découvrez les coachs",
+            "button_link_1": "shopify:\/\/pages\/votre-coach",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18487988224329__e1e62502-fa46-4741-b4b4-d1d4d699405a-16822509659325b9f6-0",
+        "template--18487988224329__e1e62502-fa46-4741-b4b4-d1d4d699405a-16822509659325b9f6-1",
+        "template--18487988224329__e1e62502-fa46-4741-b4b4-d1d4d699405a-16822509659325b9f6-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/marvin-meyer-VB5i6ZmXUoI-unsplash.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "7611d8fc-d583-4066-baae-1d6edcbb1dae": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18487988224329__7611d8fc-d583-4066-baae-1d6edcbb1dae-1682249984e700b6df-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Les forfaits SCP GYM",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18487988224329__7611d8fc-d583-4066-baae-1d6edcbb1dae-1682249984e700b6df-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "9c3b70a5-fd59-45bf-a724-39fdd27e8668": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18487988224329__9c3b70a5-fd59-45bf-a724-39fdd27e8668-1682264412aafd1857-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "En ligne ou en présentiel, obtenez une solution de coaching 100% adaptée à votre situation",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--18487988224329__9c3b70a5-fd59-45bf-a724-39fdd27e8668-1682264412aafd1857-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 24
+      }
+    },
     "05de3098-19dd-468f-97e7-a7d95d2176bc": {
       "type": "featured-collection",
       "settings": {
-        "title": "Découvrez les forfaits SCP GYM",
+        "title": "",
         "heading_size": "h1",
-        "description": "<p>Lorem<\/p>",
-        "show_description": true,
+        "description": "",
+        "show_description": false,
         "description_style": "body",
         "collection": "coaching",
         "products_to_show": 9,
@@ -603,92 +554,13 @@
         "color_scheme": "background-1",
         "image_ratio": "square",
         "show_secondary_image": false,
-        "show_vendor": true,
+        "show_vendor": false,
         "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1681976019cb03632d": {
-      "type": "apps",
-      "blocks": {
-        "f69e3430-716e-41dc-90f5-6dafd92501fd": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "f69e3430-716e-41dc-90f5-6dafd92501fd"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "06db56f0-02ed-49df-bcb3-89f72eceb741": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Lorem Ipsum",
-            "icon": "question_mark",
-            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
-            "page": ""
-          }
-        },
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Lorem Ipsum",
-            "icon": "question_mark",
-            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
-            "page": ""
-          }
-        },
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Lorem Ipsum",
-            "icon": "question_mark",
-            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
-            "page": ""
-          }
-        },
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Lorem Ipsum",
-            "icon": "question_mark",
-            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-0",
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-1",
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-2",
-        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-3"
-      ],
-      "settings": {
-        "caption": "Une question ? Consultez notre FAQ",
-        "heading": "F.A.Q",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "layout": "none",
-        "color_scheme": "inverse",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": true,
-        "image": "shopify:\/\/shop_images\/5ef274991eb39d16a6c27d90_graph-Homepage_de2111fc-efdb-49ea-906d-7bbf6144cdc0.png",
-        "image_ratio": "small",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 24
       }
     },
     "8df303f4-0092-4a0d-9d15-c417824fd272": {
@@ -757,27 +629,89 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "06db56f0-02ed-49df-bcb3-89f72eceb741": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lorem Ipsum",
+            "icon": "question_mark",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lorem Ipsum",
+            "icon": "question_mark",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lorem Ipsum",
+            "icon": "question_mark",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lorem Ipsum",
+            "icon": "question_mark",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-0",
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-1",
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-2",
+        "template--18487988224329__06db56f0-02ed-49df-bcb3-89f72eceb741-16802891729e67bf1c-3"
+      ],
+      "settings": {
+        "caption": "Une question ? Consultez notre FAQ",
+        "heading": "F.A.Q",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": true,
+        "image": "shopify:\/\/shop_images\/5ef274991eb39d16a6c27d90_graph-Homepage_de2111fc-efdb-49ea-906d-7bbf6144cdc0.png",
+        "image_ratio": "small",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "92dd9265-6e7b-4ea9-a9f8-b1b74e34007c",
     "6a48ab6f-c511-4aa2-90b1-069b916508b4",
-    "8be34bce-1908-4d36-af55-2a1da69c4036",
-    "5e66f2a0-8ac0-4d3f-9b72-1aa3a64a0533",
-    "7eea6191-1491-4a69-9833-787126d2e254",
-    "8db88ae6-318d-4e8c-9c1b-48d4184ae5cc",
-    "e99e0165-1b8f-48c8-8ecb-d5ba7b938779",
     "0a3249a2-3519-40e2-a03c-5c6a22d83955",
+    "55e95c35-5154-4908-99d0-1201acc063f0",
     "a9a8555e-7a58-41e7-b86b-1279f894abd3",
     "175b2a72-7533-466e-9369-ee0cdefa7c2a",
+    "cbbfd052-3160-4118-9526-2be259886703",
     "28d3c503-f7a7-4a57-a37d-d6bf4e3038b3",
-    "856f7898-041e-427a-993d-0b1ba7f5e7a5",
     "e134d0b9-ecf1-40fa-9efa-2259c49c1233",
+    "856f7898-041e-427a-993d-0b1ba7f5e7a5",
     "bda90e53-99dc-4704-95d8-8a0f2f0a85d5",
     "95606702-078a-4f90-ae46-2ba49db6bb99",
+    "b2284cc0-4c0b-473d-96a3-d81b450a18f5",
+    "e1e62502-fa46-4741-b4b4-d1d4d699405a",
+    "7611d8fc-d583-4066-baae-1d6edcbb1dae",
+    "9c3b70a5-fd59-45bf-a724-39fdd27e8668",
     "05de3098-19dd-468f-97e7-a7d95d2176bc",
-    "1681976019cb03632d",
-    "06db56f0-02ed-49df-bcb3-89f72eceb741",
-    "8df303f4-0092-4a0d-9d15-c417824fd272"
+    "8df303f4-0092-4a0d-9d15-c417824fd272",
+    "06db56f0-02ed-49df-bcb3-89f72eceb741"
   ]
 }

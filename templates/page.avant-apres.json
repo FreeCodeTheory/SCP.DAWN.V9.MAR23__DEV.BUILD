@@ -1,0 +1,336 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "dd008e88-0a60-4799-8a11-82951809a091": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18843526070601__dd008e88-0a60-4799-8a11-82951809a091-16822655780ec948b4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Jenny",
+            "heading_size": "h1"
+          }
+        },
+        "template--18843526070601__dd008e88-0a60-4799-8a11-82951809a091-16822655780ec948b4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Au fil de notre coaching, elle se transforme, s’épanoui, se dévoile et enfin se réveille.<\/em><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18843526070601__dd008e88-0a60-4799-8a11-82951809a091-16822655780ec948b4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Son parcours",
+            "button_link": "shopify:\/\/blogs\/avant-apres\/jenny"
+          }
+        }
+      },
+      "block_order": [
+        "template--18843526070601__dd008e88-0a60-4799-8a11-82951809a091-16822655780ec948b4-0",
+        "template--18843526070601__dd008e88-0a60-4799-8a11-82951809a091-16822655780ec948b4-1",
+        "template--18843526070601__dd008e88-0a60-4799-8a11-82951809a091-16822655780ec948b4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pf-0f8c92f7--5eafe4f94e3051c958074f18FACE52-Edited-Edited.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "388c84ea-ba32-4d88-8c6f-1b70873865a1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18843526070601__388c84ea-ba32-4d88-8c6f-1b70873865a1-16822655780ec948b4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Chloé",
+            "heading_size": "h1"
+          }
+        },
+        "template--18843526070601__388c84ea-ba32-4d88-8c6f-1b70873865a1-16822655780ec948b4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Lorsque j'ai connu Chloé, je ne m'attendais pas du tout à réveiller en elle une véritable machine<\/em><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18843526070601__388c84ea-ba32-4d88-8c6f-1b70873865a1-16822655780ec948b4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Son parcours",
+            "button_link": "shopify:\/\/blogs\/avant-apres\/chloe"
+          }
+        }
+      },
+      "block_order": [
+        "template--18843526070601__388c84ea-ba32-4d88-8c6f-1b70873865a1-16822655780ec948b4-0",
+        "template--18843526070601__388c84ea-ba32-4d88-8c6f-1b70873865a1-16822655780ec948b4-1",
+        "template--18843526070601__388c84ea-ba32-4d88-8c6f-1b70873865a1-16822655780ec948b4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pf-3f0f8c92--5eafe594153c2870d16c0ff1SITE-FACE2-Edited-Edited.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ae0547ca-b5ab-434d-9b9e-b178a1568884": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18843526070601__ae0547ca-b5ab-434d-9b9e-b178a1568884-16822655780ec948b4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Barbara",
+            "heading_size": "h1"
+          }
+        },
+        "template--18843526070601__ae0547ca-b5ab-434d-9b9e-b178a1568884-16822655780ec948b4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"En 6 mois j'ai perdu 23 kg, 20 cm de tour de taille\"<\/em><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18843526070601__ae0547ca-b5ab-434d-9b9e-b178a1568884-16822655780ec948b4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Son parcours",
+            "button_link": "shopify:\/\/blogs\/avant-apres\/barbara"
+          }
+        }
+      },
+      "block_order": [
+        "template--18843526070601__ae0547ca-b5ab-434d-9b9e-b178a1568884-16822655780ec948b4-0",
+        "template--18843526070601__ae0547ca-b5ab-434d-9b9e-b178a1568884-16822655780ec948b4-1",
+        "template--18843526070601__ae0547ca-b5ab-434d-9b9e-b178a1568884-16822655780ec948b4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pf-92f76c30--5eafea316c54ed637ca3eaf1FACE42-Edited.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "3800bc9d-d2c2-428e-8800-b3692a7aec88": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18843526070601__3800bc9d-d2c2-428e-8800-b3692a7aec88-16822655780ec948b4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nathalie",
+            "heading_size": "h1"
+          }
+        },
+        "template--18843526070601__3800bc9d-d2c2-428e-8800-b3692a7aec88-16822655780ec948b4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Avec 500 gr de plus entre ces 2 photos, Nathalie nous montre une fois de plus que le poids n'est pas représentatif d'une perte de graisse.<\/em><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18843526070601__3800bc9d-d2c2-428e-8800-b3692a7aec88-16822655780ec948b4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Son parcours",
+            "button_link": "shopify:\/\/blogs\/avant-apres\/nathalie"
+          }
+        }
+      },
+      "block_order": [
+        "template--18843526070601__3800bc9d-d2c2-428e-8800-b3692a7aec88-16822655780ec948b4-0",
+        "template--18843526070601__3800bc9d-d2c2-428e-8800-b3692a7aec88-16822655780ec948b4-1",
+        "template--18843526070601__3800bc9d-d2c2-428e-8800-b3692a7aec88-16822655780ec948b4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pf-6c30aa3a--5eafeabcab5c4e4d54ee9b65FACE32-Edited.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "fd168da9-6872-4f99-adae-1462df308864": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18843526070601__fd168da9-6872-4f99-adae-1462df308864-16822655780ec948b4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Océane",
+            "heading_size": "h1"
+          }
+        },
+        "template--18843526070601__fd168da9-6872-4f99-adae-1462df308864-16822655780ec948b4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>La première fois que j'ai rencontré Océane à ma salle, je vis en elle une personne intravertis ...<\/em><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18843526070601__fd168da9-6872-4f99-adae-1462df308864-16822655780ec948b4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Son parcours",
+            "button_link": "shopify:\/\/blogs\/avant-apres\/oceane"
+          }
+        }
+      },
+      "block_order": [
+        "template--18843526070601__fd168da9-6872-4f99-adae-1462df308864-16822655780ec948b4-0",
+        "template--18843526070601__fd168da9-6872-4f99-adae-1462df308864-16822655780ec948b4-1",
+        "template--18843526070601__fd168da9-6872-4f99-adae-1462df308864-16822655780ec948b4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pf-aa3a1237--5eaff503cd11460e23826332FACE2-Edited.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "2eb3857a-5aa2-468d-ba52-d16a9cf8cf32": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18843526070601__2eb3857a-5aa2-468d-ba52-d16a9cf8cf32-16822655780ec948b4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Louis",
+            "heading_size": "h1"
+          }
+        },
+        "template--18843526070601__2eb3857a-5aa2-468d-ba52-d16a9cf8cf32-16822655780ec948b4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Seb est quelqu'un de vraiment gentil, il est à l'écoute de ses élèves, vous pouvez lui envoyer un message n'importe quand dans la journée il vous répondra très rapidement.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18843526070601__2eb3857a-5aa2-468d-ba52-d16a9cf8cf32-16822655780ec948b4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Son parcours",
+            "button_link": "shopify:\/\/blogs\/avant-apres\/louis"
+          }
+        }
+      },
+      "block_order": [
+        "template--18843526070601__2eb3857a-5aa2-468d-ba52-d16a9cf8cf32-16822655780ec948b4-0",
+        "template--18843526070601__2eb3857a-5aa2-468d-ba52-d16a9cf8cf32-16822655780ec948b4-1",
+        "template--18843526070601__2eb3857a-5aa2-468d-ba52-d16a9cf8cf32-16822655780ec948b4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pf-12371508--5eaff6e4abe8f51b318c9b9aSans-titre2-Edited.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "514ace62-a064-40b9-b01a-ccbe2aa5b3a6": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18843526070601__514ace62-a064-40b9-b01a-ccbe2aa5b3a6-16822655780ec948b4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Emilien",
+            "heading_size": "h1"
+          }
+        },
+        "template--18843526070601__514ace62-a064-40b9-b01a-ccbe2aa5b3a6-16822655780ec948b4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Travailler avec des élèves comme lui est un pur régal. Merci pour ton investissement, ta détermination et ton sérieux.<\/em><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18843526070601__514ace62-a064-40b9-b01a-ccbe2aa5b3a6-16822655780ec948b4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Emilien",
+            "button_link": "shopify:\/\/blogs\/avant-apres\/emilien"
+          }
+        }
+      },
+      "block_order": [
+        "template--18843526070601__514ace62-a064-40b9-b01a-ccbe2aa5b3a6-16822655780ec948b4-0",
+        "template--18843526070601__514ace62-a064-40b9-b01a-ccbe2aa5b3a6-16822655780ec948b4-1",
+        "template--18843526070601__514ace62-a064-40b9-b01a-ccbe2aa5b3a6-16822655780ec948b4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pf-15089a83--5eb0021da0d3e44b55706821Face-Edited.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "dd008e88-0a60-4799-8a11-82951809a091",
+    "388c84ea-ba32-4d88-8c6f-1b70873865a1",
+    "ae0547ca-b5ab-434d-9b9e-b178a1568884",
+    "3800bc9d-d2c2-428e-8800-b3692a7aec88",
+    "fd168da9-6872-4f99-adae-1462df308864",
+    "2eb3857a-5aa2-468d-ba52-d16a9cf8cf32",
+    "514ace62-a064-40b9-b01a-ccbe2aa5b3a6"
+  ]
+}

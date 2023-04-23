@@ -200,23 +200,32 @@
               </p>
             {%- endif -%}
 
-            {% render 'price', product: card_product, price_class: '' %}
-            <p>TEST</p>
-            {% if card_product.title contains 'Coaching Online 3 mois' %}  
+            {% if card_product.title != 'Coaching Online 3 mois' and 
+                  card_product.title != 'Coaching Online 6 mois' and 
+                  card_product.title != 'Coaching VIP 6 mois' and 
+                  card_product.title != 'Coaching PLATINE 6 mois'%}
+              {% render 'price', product: card_product, price_class: '' %}
+            {% endif %}
+
+            {% if card_product.title contains 'Coaching Online 3 mois' %} 
+              <p><strong>{{ card_product.metafields.custom.coaching_price_per_month.value }}</strong></p> 
               <button class="quick-add__submit button button--full-width button--secondary" onclick="window.location.href='https://www.seb-coachperso.com/products/coaching-platine-6-mois';">
                 Choisir le forfait
               </button>
               {% elsif card_product.title contains 'Coaching Online 6 mois' %}
+                <p><strong>{{ card_product.metafields.custom.coaching_price_per_month.value }}</strong></p> 
                 <button class="quick-add__submit button button--full-width button--secondary" onclick="window.location.href='https://www.seb-coachperso.com/products/coaching-online-6-mois';">
                   Choisir le forfait
                 </button>
                 {% elsif card_product.title contains 'Coaching VIP 6 mois' %}
+                  <p><strong>{{ card_product.metafields.custom.coaching_price_per_month.value }}</strong></p> 
                   <button class="quick-add__submit button button--full-width button--secondary" onclick="window.location.href='https://www.seb-coachperso.com/products/coaching-vip-6-mois';">
-                    Règlement en salle
+                    Choisir le forfait
                   </button>
                   {% elsif card_product.title contains 'Coaching PLATINE 6 mois' %}
+                    <p><strong>{{ card_product.metafields.custom.coaching_price_per_month.value }}</strong></p> 
                     <button class="quick-add__submit button button--full-width button--secondary" onclick="window.location.href='https://www.seb-coachperso.com/products/coaching-platine-6-mois-1';">
-                      Règlement en salle
+                      Choisir le forfait
                     </button>
           {% endif %}
           </div>
