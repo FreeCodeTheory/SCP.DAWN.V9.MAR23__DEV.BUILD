@@ -464,7 +464,7 @@
           "settings": {
             "button_label_1": "Découvrez les coachs",
             "button_link_1": "shopify:\/\/pages\/votre-coach",
-            "button_style_secondary_1": true,
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -563,15 +563,60 @@
         "padding_bottom": 24
       }
     },
+    "8a2d00d0-7f0c-4ac8-a26e-5b0aeaa34b9d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18487988224329__8a2d00d0-7f0c-4ac8-a26e-5b0aeaa34b9d-16823427176bc9031b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Les valeurs du SCP GYM",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18487988224329__8a2d00d0-7f0c-4ac8-a26e-5b0aeaa34b9d-16823427176bc9031b-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "97b37bf2-cd8c-4635-83e7-635a879f64b1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18487988224329__97b37bf2-cd8c-4635-83e7-635a879f64b1-16823427176bc9031b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Un <strong>studio de coaching privé<\/strong> où la valorisation de tes <strong>résultats<\/strong> fait partie intégrante de notre vision.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18487988224329__97b37bf2-cd8c-4635-83e7-635a879f64b1-16823427176bc9031b-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "8df303f4-0092-4a0d-9d15-c417824fd272": {
       "type": "multicolumn",
       "blocks": {
         "template--18487988224329__8df303f4-0092-4a0d-9d15-c417824fd272-16802490627497edad-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/valid.png",
-            "title": "Paiement 100% Sécurisé",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "image": "shopify:\/\/shop_images\/1_2470f9f8-69ca-4029-ba3c-1ade7e0b0bc4.png",
+            "title": "100% Humain",
+            "text": "<p>Des coachs bienveillants et passionnés qui t’accompagneront pour reprendre confiance en toi<br\/><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -579,9 +624,9 @@
         "template--18487988224329__8df303f4-0092-4a0d-9d15-c417824fd272-16802490627497edad-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/whatsapp.png",
-            "title": "Grande Disponibilité",
-            "text": "<p>Dispo sur WhatsApp<br\/>Du Lun au Vend <br\/>De 09h à 19h<br\/>...<\/p>",
+            "image": "shopify:\/\/shop_images\/2_1a693de8-a65f-43d5-8b25-3d144381f861.png",
+            "title": "100% Satisfait",
+            "text": "<p>Respect de tes objectifs. L’équipe te garantie des résultats qui te rendront<br\/>fier de toi<br\/><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -589,9 +634,9 @@
         "template--18487988224329__8df303f4-0092-4a0d-9d15-c417824fd272-16802490627497edad-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/la-satisfaction.png",
-            "title": "Adhérents 100% Satisfaits",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "image": "shopify:\/\/shop_images\/3_a3892703-56aa-4496-ab08-09e7663f4e3d.png",
+            "title": "100% Dévoués",
+            "text": "<p>Notre écoute et notre empathie te permettront d’être dans des conditions de réussites optimales<br\/><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -599,9 +644,19 @@
         "2072522c-8748-456c-ad84-467dc891f6a4": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/return-box.png",
-            "title": "Retours produits 14j",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "image": "shopify:\/\/shop_images\/4.png",
+            "title": "100% Qualité",
+            "text": "<p>Un lieu unique et propre, avec des équipements sélectionnés par nos soins grâce à notre expérience<br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "02e05b56-d1c4-4c40-8ed4-e0676bad7a57": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_e0b3f0ad-18de-41cd-90d0-109d9ccbadd5.png",
+            "title": "100% Famille",
+            "text": "<p>Au scpgym, tu trouveras un esprit convivial et une ambiance chaleureuse<br\/><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -611,22 +666,35 @@
         "template--18487988224329__8df303f4-0092-4a0d-9d15-c417824fd272-16802490627497edad-0",
         "template--18487988224329__8df303f4-0092-4a0d-9d15-c417824fd272-16802490627497edad-1",
         "template--18487988224329__8df303f4-0092-4a0d-9d15-c417824fd272-16802490627497edad-2",
-        "2072522c-8748-456c-ad84-467dc891f6a4"
+        "2072522c-8748-456c-ad84-467dc891f6a4",
+        "02e05b56-d1c4-4c40-8ed4-e0676bad7a57"
+      ],
+      "custom_css": [
+        ".multicolumn {margin: 36px auto;}"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "square",
-        "columns_desktop": 4,
-        "column_alignment": "center",
+        "columns_desktop": 5,
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "59a576cd-65f9-4f1e-a53f-b63d39946927": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"elfsight-sapp-cbebe3d3-f1b9-4944-8f5e-d644f1b4d4a4\"><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
         "padding_bottom": 36
       }
     },
@@ -711,7 +779,10 @@
     "7611d8fc-d583-4066-baae-1d6edcbb1dae",
     "9c3b70a5-fd59-45bf-a724-39fdd27e8668",
     "05de3098-19dd-468f-97e7-a7d95d2176bc",
+    "8a2d00d0-7f0c-4ac8-a26e-5b0aeaa34b9d",
+    "97b37bf2-cd8c-4635-83e7-635a879f64b1",
     "8df303f4-0092-4a0d-9d15-c417824fd272",
+    "59a576cd-65f9-4f1e-a53f-b63d39946927",
     "06db56f0-02ed-49df-bcb3-89f72eceb741"
   ]
 }

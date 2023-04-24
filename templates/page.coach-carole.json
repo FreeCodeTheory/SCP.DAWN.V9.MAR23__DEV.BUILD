@@ -1,0 +1,114 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "a0c16905-bafc-4616-8769-92a5189b566c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18847616794953__a0c16905-bafc-4616-8769-92a5189b566c-16823396485c909447-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Découvrez Carole",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18847616794953__a0c16905-bafc-4616-8769-92a5189b566c-16823396485c909447-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "c5c278f4-54ea-4fab-930e-30e82e703185": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18583487545673__c5c278f4-54ea-4fab-930e-30e82e703185-16819139481b26c1b4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Coach sportif diplômé d'état depuis 4ans, j'accompagne chacun de mes  élèves à atteindre leurs objectifs.<br\/><br\/>Le sport fait depuis toujours partie de ma vie.Pratique du taekwondo dans mon adolescence, et puis plus tard de cours de fitness et de course à pied, je te transmettrai cette passion et je t'amènerai le plus loin possible afin de devenir la meilleur version de toi même.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1333218b-46f5-46ec-81a4-0951a2cf82b9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Consultez les forfaits",
+            "button_link": "shopify:\/\/collections\/coaching"
+          }
+        }
+      },
+      "block_order": [
+        "template--18583487545673__c5c278f4-54ea-4fab-930e-30e82e703185-16819139481b26c1b4-1",
+        "1333218b-46f5-46ec-81a4-0951a2cf82b9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/carole-1635943893790.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "498ff601-a47a-4bc3-8bee-3a395931ee97": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18847616794953__498ff601-a47a-4bc3-8bee-3a395931ee97-16823401265bbdb33f-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nicolas-1639229341805.webp",
+            "heading": "Nicolas",
+            "heading_size": "h2",
+            "subheading": "J'ai commencé le coaching avec Sophie car après un enchaînement d'événements de la vie je n'avais plus assez d'énergie pour me relancer tout seul dans le sport , l'envie était là mais j'avais besoin d'un coup de pouce en étant encadré ! C'est ce que Sophie a réussi à m'amener dans un premier temps puis assez vite, m'a amené bien plus ! Les séances avec Sophie, qui a su s'adapter à mon tempérament et caractère, sont plus qu'agréables. Elle amène sérieux, humour, complicité, écoute, échange et j'en oublie qui font que les séances me placent dans une bulle hors du temps. Je peux alors tout lâcher et oublier ,tout en travaillant sérieusement avec résultats physique et mental à la clé.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18847616794953__498ff601-a47a-4bc3-8bee-3a395931ee97-16823401265bbdb33f-0"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a0c16905-bafc-4616-8769-92a5189b566c",
+    "c5c278f4-54ea-4fab-930e-30e82e703185",
+    "498ff601-a47a-4bc3-8bee-3a395931ee97"
+  ]
+}

@@ -2,9 +2,33 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "80951a93-a450-49b7-af10-a7f6227a4845": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18583487545673__80951a93-a450-49b7-af10-a7f6227a4845-16823396485c909447-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Découvrez Sébastien",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18583487545673__80951a93-a450-49b7-af10-a7f6227a4845-16823396485c909447-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "c5c278f4-54ea-4fab-930e-30e82e703185": {
@@ -28,7 +52,7 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
@@ -42,7 +66,7 @@
         "2fa1fdd4-abc0-472a-a8b8-9d3123093a50": {
           "type": "video",
           "settings": {
-            "cover_image": "shopify:\/\/shop_images\/fitness-weight-lifting.jpg",
+            "cover_image": "shopify:\/\/shop_images\/ambitious-studio-rick-barrett-g_bglWB48JA-unsplash_1.jpg",
             "video_url": "https:\/\/youtu.be\/Q-zwt4rzY-4",
             "description": "Describe the video"
           }
@@ -50,7 +74,7 @@
         "29fe0231-b71f-4ef1-a441-d88866040ac1": {
           "type": "video",
           "settings": {
-            "cover_image": "shopify:\/\/shop_images\/exercise-balance.jpg",
+            "cover_image": "shopify:\/\/shop_images\/alora-griffiths-V3GnMeRhnjk-unsplash.jpg",
             "video_url": "https:\/\/youtu.be\/0CQHLI3tZAs",
             "description": "Describe the video"
           }
@@ -108,7 +132,7 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
@@ -119,6 +143,7 @@
   },
   "order": [
     "main",
+    "80951a93-a450-49b7-af10-a7f6227a4845",
     "c5c278f4-54ea-4fab-930e-30e82e703185",
     "8d8df6a8-2940-4d29-8775-734bdc881c78",
     "2a56310b-6ca0-4f52-82b3-715c3715a1dc"

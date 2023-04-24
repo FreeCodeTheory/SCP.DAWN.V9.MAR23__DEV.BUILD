@@ -1,0 +1,361 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "judgeme_preview_badge_product_page_d5cedc78": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "e0e1e39c-fa9a-423d-b5ed-a9f0850a6c88": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>{{ product.metafields.custom.coaching_price_per_month.value }}<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "9f4ca649-2067-45b3-b9d0-9e9a417b1a02": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Description",
+            "icon": "clipboard",
+            "content": "<p>{{ product.metafields.custom.coaching_online_description | metafield_tag }}<\/p>",
+            "page": ""
+          }
+        },
+        "2ce9a12d-67df-4711-8d26-89376532e59c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Paiement et Conditions",
+            "icon": "price_tag",
+            "content": "",
+            "page": ""
+          }
+        },
+        "cd67c2fd-c290-420f-8a57-6b103dbf5e97": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Guide et Conseils",
+            "icon": "question_mark",
+            "content": "",
+            "page": ""
+          }
+        },
+        "ef7986cb-df52-44cc-ae2b-9d37f11c6b73": {
+          "type": "share",
+          "settings": {
+            "share_label": "Partager"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "judgeme_preview_badge_product_page_d5cedc78",
+        "e0e1e39c-fa9a-423d-b5ed-a9f0850a6c88",
+        "9f4ca649-2067-45b3-b9d0-9e9a417b1a02",
+        "2ce9a12d-67df-4711-8d26-89376532e59c",
+        "cd67c2fd-c290-420f-8a57-6b103dbf5e97",
+        "ef7986cb-df52-44cc-ae2b-9d37f11c6b73"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "hover",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2132398e-6a02-4a6e-972e-537b6d39d5d9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18845213622601__2132398e-6a02-4a6e-972e-537b6d39d5d9-1682285971d905709d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Présentation du forfait online",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18845213622601__2132398e-6a02-4a6e-972e-537b6d39d5d9-1682285971d905709d-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "e008c5c2-335a-4270-a738-f0818c237f96": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/youtu.be\/0pgI3blIaW0",
+        "cover_image": "shopify:\/\/shop_images\/sam-moghadam-khamseh-Z4Q9KHw9ofE-unsplash.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "108b6b20-0ab6-4eef-a94a-f47e23b57d5e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18845213622601__108b6b20-0ab6-4eef-a94a-f47e23b57d5e-168228773485988e21-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vous aurez le choix entre plusieurs viandes, poissons, légumes, féculents mais tout sera quantifié pour ne rien laisser au hasard et atteindre efficacement votre objectif. Je vous apprendrai à cuisiner sainement avec des astuces très simples afin de vous faciliter la vie et de donner du goût à vos plats.<br\/><br\/>Un programme sportif en salle ou non, personnalisé suivant un bilan morphologique et postural. Je sélectionnerai pour vous les meilleurs exercices profitables à votre morphologie. Je mettrai toutes mes connaissances en œuvre pour vous apporter toutes les astuces afin de gagner un temps considérable.<br\/><br\/>Un bilan hebdomadaire via Messenger où nous faisons ensemble un point sur votre semaine afin de mettre à jour votre programme sportif en tenant compte de vos ressentis lors de la semaine passée. Ainsi, vous recevrez de façon hebdomadaire un nouveau programme que nous aurons révisé et confectionné ensemble.<br\/><br\/>Tout votre programme et votre diète seront sur une application mobile nommée SCP GYM que vous trouverez dans votre store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18845213622601__108b6b20-0ab6-4eef-a94a-f47e23b57d5e-168228773485988e21-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "73401e4f-3b5e-4d92-a878-881877fdfeac": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18845213622601__73401e4f-3b5e-4d92-a878-881877fdfeac-1682319402188d7f3d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "L'application SCP GYM",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18845213622601__73401e4f-3b5e-4d92-a878-881877fdfeac-1682319402188d7f3d-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "08b837fc-4ac4-466b-80ef-ef726b31dc88": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/youtu.be\/mqTfhjw1k-M",
+        "cover_image": "shopify:\/\/shop_images\/azamat-e-eb1cgnNIazI-unsplash.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "380ca6d8-7268-4721-be9f-b93ba065f0a0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18845213622601__380ca6d8-7268-4721-be9f-b93ba065f0a0-1682319402188d7f3d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>L'application SCP <br\/><\/h2><p>Telechargez la sans plus attendre et une fois votre programme et votre diète prête vous recevrez un mail avec vos identifiants de connexion.<br\/><\/p><p>Lors de ce bilan, nous parlons également de votre plan alimentaire, rien n’est fixe ! On peut tout moduler voire tout changer si nécessaire. Ma force est de m’adapter enti èrement à vous.<br\/><\/p><p>Une grande disponibilité : je suis joignable du lundi au samedi de 8 h a 23 h au téléphone, soit par sms, appels ou mails afin de discuter d’une quelconque modification, ou répondre tout simplement à une question.<br\/><\/p><p>Votre coaching online ne s’arrête pas à un simple bilan hebdomadaire mais bel et bien à un réel suivi de qualité à votre écoute.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18845213622601__380ca6d8-7268-4721-be9f-b93ba065f0a0-1682319402188d7f3d-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3fd2069a-cf67-4b52-8e0e-697002490960": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18845213622601__3fd2069a-cf67-4b52-8e0e-697002490960-16822866894cbe4117-0": {
+          "type": "column",
+          "settings": {
+            "image": "{{ product.metafields.custom.coaching_image.value }}",
+            "title": "Paiement CB en 1 fois",
+            "text": "<p><strong>{{ product.metafields.custom.coaching_price.value }}<\/strong><strong><br\/><\/strong>Un suivi de qualité à distance, où que vous soyez.<\/p>",
+            "link_label": "Régler en CB",
+            "link": "https:\/\/sebcoachperso.systeme.io\/913f6cc9"
+          }
+        },
+        "template--18845213622601__3fd2069a-cf67-4b52-8e0e-697002490960-16822866894cbe4117-2": {
+          "type": "column",
+          "settings": {
+            "image": "{{ product.metafields.custom.coaching_image.value }}",
+            "title": "Paiement Paypal en 1 fois",
+            "text": "<p><strong>{{ product.metafields.custom.coaching_price.value }}<\/strong><strong><br\/><\/strong>Un suivi de qualité à distance, où que vous soyez.<\/p>",
+            "link_label": "Régler via Paypal",
+            "link": "https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_s-xclick&hosted_button_id=Y68558N64UZ88"
+          }
+        }
+      },
+      "block_order": [
+        "template--18845213622601__3fd2069a-cf67-4b52-8e0e-697002490960-16822866894cbe4117-0",
+        "template--18845213622601__3fd2069a-cf67-4b52-8e0e-697002490960-16822866894cbe4117-2"
+      ],
+      "custom_css": [
+        ".multicolumn {margin: 36px 0;}"
+      ],
+      "settings": {
+        "title": "Réglement en 1 fois",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d627d188-77e8-49c9-877a-bc5583079888": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18845213622601__d627d188-77e8-49c9-877a-bc5583079888-1682319031d6682e7c-0": {
+          "type": "column",
+          "settings": {
+            "image": "{{ product.metafields.custom.coaching_image.value }}",
+            "title": "Paiement CB en 3 fois",
+            "text": "<p><strong>{{ product.metafields.custom.coaching_price_per_month.value }}<\/strong><br\/>Un suivi de qualité à distance, où que vous soyez.<\/p>",
+            "link_label": "Régler en CB",
+            "link": "https:\/\/sebcoachperso.systeme.io\/7f0aac60"
+          }
+        },
+        "template--18845213622601__d627d188-77e8-49c9-877a-bc5583079888-1682319031d6682e7c-1": {
+          "type": "column",
+          "settings": {
+            "image": "{{ product.metafields.custom.coaching_image.value }}",
+            "title": "Paiement Paypal en 3 fois",
+            "text": "<p><strong>{{ product.metafields.custom.coaching_price_per_month.value }}<\/strong><br\/>Un suivi de qualité à distance, où que vous soyez.<\/p>",
+            "link_label": "Régler via Paypal",
+            "link": "https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_s-xclick&hosted_button_id=64CGUTDEGHB3A"
+          }
+        }
+      },
+      "block_order": [
+        "template--18845213622601__d627d188-77e8-49c9-877a-bc5583079888-1682319031d6682e7c-0",
+        "template--18845213622601__d627d188-77e8-49c9-877a-bc5583079888-1682319031d6682e7c-1"
+      ],
+      "custom_css": [
+        ".multicolumn {margin: 36px 0;}"
+      ],
+      "settings": {
+        "title": "Réglement en 3 fois",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "52b8a622-eda2-4932-a8c6-cff224f3bd63": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"elfsight-sapp-cbebe3d3-f1b9-4944-8f5e-d644f1b4d4a4\"><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "821dc8dc-7b79-4003-8a71-adac5e681d60": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18845213622601__821dc8dc-7b79-4003-8a71-adac5e681d60-168228773485988e21-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Les autres forfaits coaching SCP GYM",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18845213622601__821dc8dc-7b79-4003-8a71-adac5e681d60-168228773485988e21-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "products_to_show": 4,
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2132398e-6a02-4a6e-972e-537b6d39d5d9",
+    "e008c5c2-335a-4270-a738-f0818c237f96",
+    "108b6b20-0ab6-4eef-a94a-f47e23b57d5e",
+    "73401e4f-3b5e-4d92-a878-881877fdfeac",
+    "08b837fc-4ac4-466b-80ef-ef726b31dc88",
+    "380ca6d8-7268-4721-be9f-b93ba065f0a0",
+    "3fd2069a-cf67-4b52-8e0e-697002490960",
+    "d627d188-77e8-49c9-877a-bc5583079888",
+    "52b8a622-eda2-4932-a8c6-cff224f3bd63",
+    "821dc8dc-7b79-4003-8a71-adac5e681d60",
+    "related-products"
+  ]
+}

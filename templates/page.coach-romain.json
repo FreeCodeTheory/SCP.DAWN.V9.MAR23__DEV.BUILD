@@ -2,9 +2,33 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "3d75ad05-6abe-4cf7-bc87-9bfc7c3a018d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18586481590601__3d75ad05-6abe-4cf7-bc87-9bfc7c3a018d-16823396485c909447-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Découvrez Romain",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18586481590601__3d75ad05-6abe-4cf7-bc87-9bfc7c3a018d-16823396485c909447-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "5c7a67fe-ae06-4462-8990-b804a712e490": {
@@ -58,28 +82,21 @@
         "template--18586481590601__5793d9c8-4309-44e6-ab67-6b1bbcbfb870-1681971467beb0df57-0": {
           "type": "heading",
           "settings": {
-            "heading": "Témoignages",
+            "heading": "Les témoignages vidéos des élèves de Romain",
             "heading_size": "h1"
-          }
-        },
-        "517747ce-e058-4757-9f5e-87ae96d689a9": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Découvrez les retours d'expériences des élèves de Romain.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--18586481590601__5793d9c8-4309-44e6-ab67-6b1bbcbfb870-1681971467beb0df57-0",
-        "517747ce-e058-4757-9f5e-87ae96d689a9"
+        "template--18586481590601__5793d9c8-4309-44e6-ab67-6b1bbcbfb870-1681971467beb0df57-0"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "91ce9478-1caf-4514-b6a4-3a724f876c65": {
@@ -88,6 +105,7 @@
         "5034ea47-c48c-4e07-bb37-17212bcbe376": {
           "type": "video",
           "settings": {
+            "cover_image": "shopify:\/\/shop_images\/ambitious-studio-rick-barrett-g_bglWB48JA-unsplash_1.jpg",
             "video_url": "https:\/\/youtu.be\/uW6uEXC5vOI",
             "description": "Describe the video"
           }
@@ -95,6 +113,7 @@
         "7a6612d7-6e3b-4e98-96da-2f16c0c7138d": {
           "type": "video",
           "settings": {
+            "cover_image": "shopify:\/\/shop_images\/amandine--web-1638977164516.webp",
             "video_url": "https:\/\/youtu.be\/5pVGddDqwPE",
             "description": "Describe the video"
           }
@@ -102,6 +121,7 @@
         "f5545f74-e356-459c-8456-e7179c6ff7ec": {
           "type": "video",
           "settings": {
+            "cover_image": "shopify:\/\/shop_images\/manon-1637594404051.webp",
             "video_url": "https:\/\/youtu.be\/SyAimql9Stg",
             "description": "Describe the video"
           }
@@ -116,11 +136,11 @@
         "heading": "",
         "heading_size": "h1",
         "desktop_layout": "left",
-        "mobile_layout": "column",
+        "mobile_layout": "collage",
         "card_styles": "none",
         "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 12
+        "padding_top": 32,
+        "padding_bottom": 32
       }
     },
     "bf13a38d-1c83-4851-ad43-37b7f46e217a": {
@@ -129,6 +149,7 @@
         "a4c913ba-c2b2-4daf-983a-0cca08c1b17e": {
           "type": "video",
           "settings": {
+            "cover_image": "shopify:\/\/shop_images\/alora-griffiths-V3GnMeRhnjk-unsplash.jpg",
             "video_url": "https:\/\/youtu.be\/BToeTC3sL7c",
             "description": "Describe the video"
           }
@@ -136,6 +157,7 @@
         "c4048a5c-b017-4d5b-8431-e02e4135d6bb": {
           "type": "video",
           "settings": {
+            "cover_image": "shopify:\/\/shop_images\/victor-freitas-usNAh-a1kgc-unsplash.jpg",
             "video_url": "https:\/\/youtu.be\/WufsedSlOEU",
             "description": "Describe the video"
           }
@@ -143,6 +165,7 @@
         "8d0e8393-baa8-4f83-add6-5c62ab1cd14f": {
           "type": "video",
           "settings": {
+            "cover_image": "shopify:\/\/shop_images\/david-1637594404075.webp",
             "video_url": "https:\/\/youtu.be\/_XzB4eW-BbU",
             "description": "Describe the video"
           }
@@ -157,16 +180,57 @@
         "heading": "",
         "heading_size": "h1",
         "desktop_layout": "right",
-        "mobile_layout": "column",
+        "mobile_layout": "collage",
         "card_styles": "none",
         "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 36
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "b1865daa-1385-434f-960e-25dd407f02f6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18586481590601__b1865daa-1385-434f-960e-25dd407f02f6-16823427176bc9031b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Les témoignages écrits des élèves de Romain",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18586481590601__b1865daa-1385-434f-960e-25dd407f02f6-16823427176bc9031b-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "156d8bcd-e98a-4d28-9a52-56181813a084": {
       "type": "slideshow",
       "blocks": {
+        "template--18586481590601__156d8bcd-e98a-4d28-9a52-56181813a084-1681971619b7b73a45-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/amandine--web-1638977164516.webp",
+            "heading": "Amadine",
+            "heading_size": "h2",
+            "subheading": "Cela fait quelques années que je pratique la musculation mais mon manque de discipline au niveau de l’alimentation m’empêchait d’évoluer. Romain m’apporte ce cadre dont j’ai besoin. Et les performances suivent.Chaque jour, il t’aide à te surpasser. Il est disponible dès que tu le sollicites et est toujours de bonne humeur. C’est un réel plaisir de l’avoir à mes côtés.Romain, merci d’être ce que tu es",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "template--18586481590601__156d8bcd-e98a-4d28-9a52-56181813a084-1681971619b7b73a45-0": {
           "type": "slide",
           "settings": {
@@ -174,7 +238,7 @@
             "heading": "David",
             "heading_size": "h2",
             "subheading": "Le principe même du coaching est d’apporter son savoir faire pour faire évoluer les autres. Romain en est le parfait exemple. Arrivé au SCP afin de reprendre le sport après des années sans activités, je cherchais un lieu plus atypique et intimiste qu’une simple salle de sport . Sa disponibilité et son écoute en plus de ses compétences en font ses atouts.Un suivi personnalisé est forcément impératif si l’on veut obtenir de vrai résultats et romain s’adapte parfaitement à ta demande suivant tes objectifs et même au-delà. Pour résumer si tu veux progresser Romain va t’aider et tes objectifs seront réalisés !",
-            "button_label": "Button label",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "bottom-left",
@@ -185,18 +249,19 @@
             "text_alignment_mobile": "center"
           }
         },
-        "template--18586481590601__156d8bcd-e98a-4d28-9a52-56181813a084-1681971619b7b73a45-1": {
+        "d1179cdf-1aaa-4b23-a1d4-89742b21daed": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/manon-1637594404051.webp",
+            "heading": "Manon",
+            "heading_size": "h2",
+            "subheading": "Je m'appelle Manon, j'ai 22 ans et je me suis inscrite au scp gym en février. Je suis venue chercher Romain car je voulais tonifier mon corps après une importante perte de poids trop rapide. Romain est une personne attentionnée, toujours disponible que ce soit pour le côté sport comme personnel, il adapte nos programmes en fonction de notre rythme de vie. Il m'apprend à accepter mon corps, à instaurer une vraie routine au quotidien et à me rapprocher de mon objectif.",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-left",
             "show_text_box": true,
-            "text_alignment": "center",
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
@@ -204,8 +269,9 @@
         }
       },
       "block_order": [
+        "template--18586481590601__156d8bcd-e98a-4d28-9a52-56181813a084-1681971619b7b73a45-1",
         "template--18586481590601__156d8bcd-e98a-4d28-9a52-56181813a084-1681971619b7b73a45-0",
-        "template--18586481590601__156d8bcd-e98a-4d28-9a52-56181813a084-1681971619b7b73a45-1"
+        "d1179cdf-1aaa-4b23-a1d4-89742b21daed"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -217,14 +283,118 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "494b68f1-6c0d-4e58-b496-f92c74b5ab1d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18586481590601__494b68f1-6c0d-4e58-b496-f92c74b5ab1d-16823427176bc9031b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Les avants \/ aprés des élèves de Romain",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18586481590601__494b68f1-6c0d-4e58-b496-f92c74b5ab1d-16823427176bc9031b-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "1418dcc0-8eaa-49f6-a8a7-312cb2fea2c9": {
+      "type": "collage",
+      "blocks": {
+        "template--18586481590601__1418dcc0-8eaa-49f6-a8a7-312cb2fea2c9-1682339374a2396062-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/01-1636376472354.webp"
+          }
+        },
+        "5d157620-1e3b-4f8e-9e6d-cc5dd29ac86f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/02-1636376472350.webp"
+          }
+        },
+        "6148d36d-5d95-45ed-8865-de4fa390301e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eva2-1638977668403.webp"
+          }
+        }
+      },
+      "block_order": [
+        "template--18586481590601__1418dcc0-8eaa-49f6-a8a7-312cb2fea2c9-1682339374a2396062-0",
+        "5d157620-1e3b-4f8e-9e6d-cc5dd29ac86f",
+        "6148d36d-5d95-45ed-8865-de4fa390301e"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "none",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d1363ca8-9485-4bbd-8b02-fe20efa9ebe9": {
+      "type": "collage",
+      "blocks": {
+        "template--18586481590601__d1363ca8-9485-4bbd-8b02-fe20efa9ebe9-1682339374a2396062-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eva3-1638977668408.webp"
+          }
+        },
+        "1df48494-567a-4425-9cc0-da788160fb68": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cecile-1638977439881.webp"
+          }
+        },
+        "981c5ca0-e9b2-4699-a195-30bf03213b94": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/03-1636376472346.webp"
+          }
+        }
+      },
+      "block_order": [
+        "template--18586481590601__d1363ca8-9485-4bbd-8b02-fe20efa9ebe9-1682339374a2396062-0",
+        "1df48494-567a-4425-9cc0-da788160fb68",
+        "981c5ca0-e9b2-4699-a195-30bf03213b94"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "mobile_layout": "column",
+        "card_styles": "none",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
+    "3d75ad05-6abe-4cf7-bc87-9bfc7c3a018d",
     "5c7a67fe-ae06-4462-8990-b804a712e490",
     "5793d9c8-4309-44e6-ab67-6b1bbcbfb870",
     "91ce9478-1caf-4514-b6a4-3a724f876c65",
     "bf13a38d-1c83-4851-ad43-37b7f46e217a",
-    "156d8bcd-e98a-4d28-9a52-56181813a084"
+    "b1865daa-1385-434f-960e-25dd407f02f6",
+    "156d8bcd-e98a-4d28-9a52-56181813a084",
+    "494b68f1-6c0d-4e58-b496-f92c74b5ab1d",
+    "1418dcc0-8eaa-49f6-a8a7-312cb2fea2c9",
+    "d1363ca8-9485-4bbd-8b02-fe20efa9ebe9"
   ]
 }
